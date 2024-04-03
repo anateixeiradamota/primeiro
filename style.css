@@ -30,3 +30,6 @@ padding: 24px 0;
 .imagem{ 
     width: 30%;
 }
+.culinaria-titulo{ 
+    display: flex;
+}
