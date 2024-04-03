@@ -30,7 +30,6 @@ padding: 24px 0;
 .imagem{ 
     width: 30%;
 }
-.texto-1{
-    color: black;
-    display: flex;
+.culinaria-titulo{
+    background-image: -o-linear-gradient(#E97979,#F6B0B0);
 }
