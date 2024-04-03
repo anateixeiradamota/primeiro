@@ -22,7 +22,7 @@ padding: 24px 0;
     font-size: 24px;
 }
 .imagem{
-
+display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 8px 0;
