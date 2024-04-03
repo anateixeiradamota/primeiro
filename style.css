@@ -33,3 +33,6 @@ padding: 24px 0;
 .culinaria{ 
     display: flex;
 }
+.culinaria-div{
+    width: 35%;
+}
