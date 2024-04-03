@@ -31,5 +31,5 @@ padding: 24px 0;
     width: 30%;
 }
 .culinaria-titulo{
-    background-image: -o-linear-gradient(#E97979,#F6B0B0);
+    background-image: linear-gradient(#E97979,#F6B0B0);
 }
