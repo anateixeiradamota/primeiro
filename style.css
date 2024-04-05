@@ -61,6 +61,7 @@ main {
     display: inline-block;
     margin-right: 30px;
 }
+.imagem1{ max-width: 20%;}
 
 .imagem img {
     max-width: 10%;
