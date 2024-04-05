@@ -49,8 +49,8 @@ main {
 }
 
 .texto-lateral {
-    flex: 5;
-    padding: 20px;
+    flex: 1;
+    padding: 30px;
 }
 
 .galeria {
