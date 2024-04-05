@@ -23,6 +23,7 @@ padding: 24px 0;
 }
 .destaque img {
     max-width: 20%;
+    margin-top: 20px;
 }
 
 .texto-lateral {
