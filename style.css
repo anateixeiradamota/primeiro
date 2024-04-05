@@ -49,7 +49,7 @@ main {
 }
 
 .texto-lateral {
-    flex: 1;
+    flex: 5;
     padding: 20px;
 }
 
