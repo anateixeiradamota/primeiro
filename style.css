@@ -25,7 +25,8 @@ padding: 24px 0;
     max-width: 20%;
     margin-top: 20px;  }
 
-.destaque{display: flex;}
+.destaque{display: flex;
+margin:0 20px;}
 
   .galeria {
     margin-top: 20px;
