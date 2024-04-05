@@ -36,9 +36,9 @@ nav ul li a {
 }
 
 main {
-    max-width: 800px;
+    max-width: 30px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
 }
 
 .destaque img {
@@ -60,7 +60,7 @@ main {
 }
 
 .imagem img {
-    max-width: 100%;
+    max-width: 20%;
 }
 
 footer {
