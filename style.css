@@ -43,9 +43,12 @@ padding: 24px 0;
 
 .feijao{ font-size: 24px;}
 
+.imagem2{ max-width: 20%;}
+
+.pudim{ font-size: 24px;}}
+
 .imagem img {
     max-width: 20%;
-    font-size: 24px;
 }
 
 footer {
