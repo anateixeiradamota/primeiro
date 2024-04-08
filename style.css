@@ -53,8 +53,8 @@ padding: 24px 0;
     width: 80%; 
     height: auto; 
     margin-top: 60px;
-    
-    footer {
+
+  .footer {
         background-color: #E97979;
         color: #fff;
         text-align: center;
