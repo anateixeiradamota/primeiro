@@ -47,6 +47,16 @@ margin-top: 50px;}
 max-width: 20%;}
 .acai{font-size: 24px;}
 
+.organizar {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Cria três colunas com larguras iguais */
+}
+
+.container img {
+    width: 100%; /* As imagens ocupam toda a largura do espaço da coluna */
+    height: auto;
+}
+
 footer {
     background-color: #E97979;
     color: #fff;
