@@ -25,6 +25,8 @@ padding: 24px 0;
     max-width: 20%;
     margin-top: 20px;  }
 
+    .pimenta{  font-size: 24px;}
+
 
 .destaque{
     display: flex;
@@ -33,11 +35,6 @@ padding: 24px 0;
     align-items: center;
         padding: 24px 0;
      }
-
-     .titulo-comi{
-        justify-content: space-around;
-        align-items: center;
-            padding: 24px 0;}
 
   .galeria {
     margin-top: 20px;
