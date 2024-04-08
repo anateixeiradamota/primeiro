@@ -53,7 +53,7 @@ max-width: 20%;}
 }
 
 .container img {
-    width: 100%; /* As imagens ocupam toda a largura do espaço da coluna */
+    width: 20%; /* As imagens ocupam toda a largura do espaço da coluna */
     height: auto;
 }
 
