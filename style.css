@@ -42,7 +42,8 @@ margin-top: 50px;}
     grid-template-columns: repeat(3, 1fr); 
     gap: 20px;
   }
-  
+  .titulo{ margin: 20%;}
+
   .container img {
     width: 80%; 
     height: auto; 
