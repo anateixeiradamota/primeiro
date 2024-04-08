@@ -25,9 +25,14 @@ padding: 24px 0;
     max-width: 20%;
     margin-top: 20px;  }
 
-.destaque{display: flex;
-margin-top: 50px;}
-
+.destaque{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+    align-items: center;
+        padding: 24px 0;
+    }
+    
   .galeria {
     margin-top: 20px;
 }
